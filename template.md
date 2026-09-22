@@ -11,25 +11,25 @@
 
 **Lab0: Basic wireshark operation and capture**
 
-Assignment Information: Lab0
-Deadline : 12:00, Sep. 28
-Goal: The goal of Lab 0 is to learn how to use Wireshark to capture and analyze network packets. We will examine protocols such as TCP, DNS, and HTTP.
-delivery: https://hackmd.io/@oliver-notes/HkNbpvAFfx
- Peer review : Vote the Top3 (DL: 23:59, Sep. 30)
+- Assignment Information: Lab0
+- Deadline : 12:00, Sep. 28
+- Goal: The goal of Lab 0 is to learn how to use Wireshark to capture and analyze network packets. We will examine protocols such as TCP, DNS, and HTTP.
+- delivery: https://hackmd.io/@oliver-notes/HkNbpvAFfx
+ - Peer review : Vote the Top3 (DL: 23:59, Sep. 30)
 
 **LAB1: Analyzing UE–gNB Connectivity in an OAI 5G SA Network**
 
-Assignment Information: Lab1
-Deadline : 12:00, Sep. 28
-Goal: In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
-delivery: put your file link here.
- Peer review : Vote the Top3 (DL: 23:59, Sep. 30)
+- Assignment Information: Lab1
+- Deadline : 12:00, Sep. 28
+- Goal: In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
+- delivery: put your file link here.
+-  Peer review : Vote the Top3 (DL: 23:59, Sep. 30)
  
 **LAB2 : gNB TDD Traffic Analysis**
 
-Assignment Information: Lab2
-Deadline : 12:00, Oct. 5
-Goal: In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
-delivery: put your file link here.
- Peer review : Vote the Top3 (DL: 23:59, Oct.7)
+- Assignment Information: Lab2
+- Deadline : 12:00, Oct. 5
+- Goal: In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
+- delivery: put your file link here.
+-  Peer review : Vote the Top3 (DL: 23:59, Oct.7)
 
