@@ -28,8 +28,9 @@
 - **LAB2 : gNB TDD Traffic Analysis**
 
   - Assignment Information: Lab2
-  - Deadline : 12:00, Oct. 5
+  - Deadline : 12:00, Nov. 9
   - Goal: In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
   - delivery: https://hackmd.io/@oliver-notes/BJ9zhID6Gl
-  -  Peer review : Vote the Top3 (DL: 23:59, Oct.7)
+  - GitHub: https://github.com/oliver-notes/WC-2026-M11302231-Oliver/blob/main/Lab2/Lab2_report.md
+  -  Peer review : Vote the Top3 (DL: 23:59, Nov. 11)
 
