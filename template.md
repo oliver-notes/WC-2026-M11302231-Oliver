@@ -34,12 +34,11 @@
   - GitHub: https://github.com/oliver-notes/WC-2026-M11302231-Oliver/blob/main/Lab2/Lab2_report.md
   -  Peer review : Vote the Top3 (DL: 23:59, Nov. 11)
  
-- **LAB3 : Deploying a 5G Standalone Network Using OpenAirInterface**
-
-  - Assignment Information: Lab3
-  - Deadline : 12:00, Nov. 16
-  - Goal: In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
-  - delivery: https://hackmd.io/@oliver-notes/BJ9zhID6Gl
-  - GitHub: https://github.com/oliver-notes/WC-2026-M11302231-Oliver/blob/main/Lab2/Lab2_report.md
-  -  Peer review : Vote the Top3 (DL: 23:59, Nov. 18)
+* LAB3 : Deploying a 5G Standalone Network Using OpenAirInterface
+   * Assignment Information: Lab3
+   * Deadline : 12:00, Nov. 16
+   * Goal: In this lab, you will deploy OAI CN5G, gNB and nrUE on one Ubuntu machine with RFsimulator, verify the 5G SA connection and end-to-end IP connectivity, measure how ICMP packet size affects RTT, and diagnose and recover from a controlled UE registration failure.
+   * delivery: https://hackmd.io/0PN_3UM7SuC1El8lcfR-rA
+   * GitHub: https://github.com/oliver-notes/WC-2026-M11302231-Oliver/blob/main/Lab3/Lab3_report.md
+   * Peer review : Vote the Top3 (DL: 23:59, Nov. 18)
 
