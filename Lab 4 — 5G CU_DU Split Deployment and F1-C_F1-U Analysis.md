@@ -1,5 +1,5 @@
 ---
-title: Lab 4 — 5G CU/DU Split Deployment and F1-C/F1-U Analysis
+title: Lab4/Lab4_report.md
 
 ---
 
