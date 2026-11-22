@@ -42,3 +42,10 @@
    * GitHub: https://github.com/oliver-notes/WC-2026-M11302231-Oliver/blob/main/Lab3/Lab3_report.md
    * Peer review : Vote the Top3 (DL: 23:59, Nov. 18)
 
+* LAB4 : Deploying a 5G CU/DU Split Network with OAI
+   * Assignment Information: Lab4
+   * Deadline : 12:00, Nov. 23
+   * Goal: In this lab, you will replace the monolithic gNB from Lab 3 with a split gNB-CU and gNB-DU, capture F1-C (F1AP over SCTP) and F1-U (GTP-U over UDP) in a single PCAP, analyze F1 Setup, RRC/UE Context messages and GTP-U TEIDs, and verify that the UE still reaches the external data network through the split architecture.
+   * delivery: https://hackmd.io/ujsWAPr4RgqSA2uW1xEu_Q
+   * GitHub: https://github.com/oliver-notes/WC-2026-M11302231-Oliver/blob/main/Lab4/Lab4_report.md
+   * Peer review : Vote the Top3 (DL: 23:59, Nov. 25)
